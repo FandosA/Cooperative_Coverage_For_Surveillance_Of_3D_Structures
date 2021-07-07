@@ -6,10 +6,14 @@ It simulates an autonomous multi-robot system to cover and surveil a 3D structur
 
 The landmarks are randomly distributed along the surface of the cylinder. Each robot has assigned a set of landmarks, and each landmark has assigned an only robot. The initial positions and orientations of the robots, as well as the initial positions and assignments of the landmarks are shown in the following image:
 
-<img src="https://user-images.githubusercontent.com/71872419/124789999-1141d380-df4b-11eb-8e1c-46dae3c512e9.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/71872419/124789999-1141d380-df4b-11eb-8e1c-46dae3c512e9.png" width="300" height="300"> <img src="https://user-images.githubusercontent.com/71872419/124790884-d7250180-df4b-11eb-845c-d85a12d191f9.png" width="300" height="300">
 
-The orientations of the landmarks are shown in the next images:
+The positions and orientations of the landmarks randomy distributed are shown in the next images:
 
-<img src="https://user-images.githubusercontent.com/71872419/124789146-4d286900-df4a-11eb-90d4-f19a56fbf4e2.png" width="250" height="250"> <img src="https://user-images.githubusercontent.com/71872419/124789154-50235980-df4a-11eb-86a2-43a2fb69bf73.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/71872419/124789146-4d286900-df4a-11eb-90d4-f19a56fbf4e2.png" width="300" height="300"> <img src="https://user-images.githubusercontent.com/71872419/124789154-50235980-df4a-11eb-86a2-43a2fb69bf73.png" width="300" height="300">
 
-Finally, after running the experiment, 
+Finally, after running the experiment, if the parameters are correctly set, something like this is obtained:
+
+<img src="https://user-images.githubusercontent.com/71872419/124790995-f3c13980-df4b-11eb-9f1d-53978fa3322f.png" width="300" height="300"> <img src="https://user-images.githubusercontent.com/71872419/124791051-0176bf00-df4c-11eb-8b68-621b35f6d31d.png" width="300" height="300">
+
+

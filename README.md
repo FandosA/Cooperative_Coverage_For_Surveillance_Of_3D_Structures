@@ -8,4 +8,8 @@ The landmarks are randomly distributed along the surface of the cylinder. Each r
 
 ![InitialPos_Agents_front](https://user-images.githubusercontent.com/71872419/124787818-1736b500-df49-11eb-9af6-cba869280527.png)
 
+The orientations of the landmarks are shown in the next images:
+
+![FrontView_Landmarks](https://user-images.githubusercontent.com/71872419/124789146-4d286900-df4a-11eb-90d4-f19a56fbf4e2.png)
+![TopView_Landmarks](https://user-images.githubusercontent.com/71872419/124789154-50235980-df4a-11eb-86a2-43a2fb69bf73.png)
 

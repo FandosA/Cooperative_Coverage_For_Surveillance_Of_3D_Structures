@@ -14,6 +14,5 @@ The positions and orientations of the landmarks randomy distributed are shown in
 
 Finally, after running the experiment, if the parameters are correctly set, something like this is obtained:
 
-<img src="https://user-images.githubusercontent.com/71872419/124790995-f3c13980-df4b-11eb-9f1d-53978fa3322f.png" width="300" height="300"> <img src="https://user-images.githubusercontent.com/71872419/124791051-0176bf00-df4c-11eb-8b68-621b35f6d31d.png" width="300" height="300">
-
+<img src="https://user-images.githubusercontent.com/71872419/124791218-2703c880-df4c-11eb-8e62-bf6f5c82db95.png" width="300" height="300"> <img src="https://user-images.githubusercontent.com/71872419/124791264-3125c700-df4c-11eb-81e7-52d4f59dddca.png" width="300" height="300">
 

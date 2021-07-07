@@ -16,4 +16,5 @@ Finally, after running the experiment, if the parameters are correctly set, some
 
 <img src="https://user-images.githubusercontent.com/71872419/124791218-2703c880-df4c-11eb-8e62-bf6f5c82db95.png" width="250" height="250"> <img src="https://user-images.githubusercontent.com/71872419/124791264-3125c700-df4c-11eb-81e7-52d4f59dddca.png" width="200" height="250"> <img src="https://user-images.githubusercontent.com/71872419/124791486-629e9280-df4c-11eb-8b38-4c067a4ad82f.png" width="250" height="250"> <img src="https://user-images.githubusercontent.com/71872419/124791542-6f22eb00-df4c-11eb-949b-c837de35ec99.png" width="200" height="250">
 
-
+In order to have an idea about how the progress of the velocities and positions of the robots along the iterations, I also plotted them:
+<img src="https://user-images.githubusercontent.com/71872419/124792393-43543500-df4d-11eb-9745-2c778bbd0a8f.png" width="300" height="300"> <img src="https://user-images.githubusercontent.com/71872419/124792407-464f2580-df4d-11eb-9897-088882f89da6.png" width="300" height="300"> <img src="https://user-images.githubusercontent.com/71872419/124792427-494a1600-df4d-11eb-9c42-8a7961519a88.png" width="300" height="300">

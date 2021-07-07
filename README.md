@@ -10,6 +10,9 @@ The landmarks are randomly distributed along the surface of the cylinder. Each r
 
 The orientations of the landmarks are shown in the next images:
 
+<img src="https://user-images.githubusercontent.com/71872419/124789146-4d286900-df4a-11eb-90d4-f19a56fbf4e2.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/71872419/124789154-50235980-df4a-11eb-86a2-43a2fb69bf73.png" width="100" height="100">
+
 ![FrontView_Landmarks](https://user-images.githubusercontent.com/71872419/124789146-4d286900-df4a-11eb-90d4-f19a56fbf4e2.png){:height="50%" width="50%"}
 ![TopView_Landmarks](https://user-images.githubusercontent.com/71872419/124789154-50235980-df4a-11eb-86a2-43a2fb69bf73.png){:height="75%" width="75%"}
 

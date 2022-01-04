@@ -28,4 +28,4 @@ In order to have an idea about how the progress of the velocities and positions 
 <img src="https://user-images.githubusercontent.com/71872419/124792780-9f1ebe00-df4d-11eb-8ebd-d978ba88ed42.png" width="250" height="250"> <img src="https://user-images.githubusercontent.com/71872419/124792788-a04feb00-df4d-11eb-967d-431065eadf7c.png" width="250" height="250"> <img src="https://user-images.githubusercontent.com/71872419/124792806-a47c0880-df4d-11eb-84d3-093ce33b6cca.png" width="250" height="250">
 
 
-> Antonio Adaldo et al. “Cooperative coverage for surveillance of 3D structures”. In: *2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. 2017, pp. 1838–1845. doi: [10.1109/IROS.2017.8205999](https://ieeexplore.ieee.org/document/8205999)
+> Adaldo, A. et al. “Cooperative coverage for surveillance of 3D structures”. In: *2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. 2017, pp. 1838–1845. doi: [10.1109/IROS.2017.8205999](https://ieeexplore.ieee.org/document/8205999)
